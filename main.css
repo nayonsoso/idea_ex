@@ -34,3 +34,5 @@ body {font-family: 'NanumSquare', sans-serif !important; font-size: 14px; color:
 body{background-color:EEEEEE;}
 
 p {text-align: center; font-size:30px;font-family: 'GyeonggiBatang'; font-weight:bold;}
+
+.audio {width: 100px; margin: 0 auto;}
