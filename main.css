@@ -2,7 +2,7 @@
 @font-face {
     font-family: 'GyeonggiBatang';
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/GyeonggiBatang.woff') format('woff');
-    font-weight: normal;
+    font-weight: 500;
     font-style: normal;
 }
 
@@ -35,4 +35,4 @@ body{background-color:EEEEEE;}
 
 p {text-align: center; font-size:30px;font-family: 'GyeonggiBatang'; font-weight:bold;}
 
-.audio {width: 100px; margin: 0 auto;background-color:red;}
+.audio {width: 300px; margin: 0 auto;background-color:red;}
