@@ -42,4 +42,7 @@ p {text-align: center; font-size:9px; font-family:'GowunBatang-Bold'; margin: 20
 .center{margin: 20px auto;}
 .keyword{margin: 20px auto; font-size:25px; font-weight: bold}
 .bold{color:#C62026;}
-.answer{text-align:left; margin:20px}
+
+/* ==== 답안지 수정 ==== */
+.ans{text-align:left; margin:20px; font-size:15px;}
+.m_ans{text-align:left; margin:20px; font-size:15px; font-weight: bold}
